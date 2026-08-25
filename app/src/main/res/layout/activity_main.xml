@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CapCut Smooth Video Editor"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="30dp" />
+
+    <Button
+        android:id="@+id/newProjectBtn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="New Project"
+        android:textSize="18sp"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/recentProjectsBtn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Recent Projects"
+        android:textSize="18sp"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/settingsBtn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Settings"
+        android:textSize="18sp" />
+
+</LinearLayout>
