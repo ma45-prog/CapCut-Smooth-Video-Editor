@@ -12,7 +12,8 @@ A lightweight, feature-rich video editing application designed specifically for 
 - ⚡ **Optimized Performance** - Runs smoothly on low-end devices
 - 📤 **Export** - Export videos in various formats
 
-## Requirements
+## Requirements 
+
 
 - Android 7.0+ (API 24)
 - Minimum 2GB RAM (recommended 3GB+)
